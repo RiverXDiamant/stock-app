@@ -10,6 +10,7 @@ import Dashboard from "./components/Dashboard";
 import "./App.css";
 
 function App() {
+  // Route components specify each route
   return (
     <div className="App">
       <NavBar />
